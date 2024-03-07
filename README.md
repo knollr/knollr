@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🔭 I’m interested in bioinformatics (single-cell transcriptomics, proteomics) and immunology
+- 📫 How to reach me: rainer.knoll@dzne.de
 <!--
 **knollr/knollr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
